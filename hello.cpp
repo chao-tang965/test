@@ -7,4 +7,5 @@ int main()
     cout<<"hello world！！！"<<endl;
     cout<<"first commit"<<endl;
     cout<<"second commit"<<endl
+    cout<<"branch1 test"<<endl;
 }
