@@ -8,4 +8,5 @@ int main()
     cout<<"first commit"<<endl;
     cout<<"second commit"<<endl
     cout<<"branch1 test"<<endl;
+    cout<<"branch2 test"<<endl;
 }
